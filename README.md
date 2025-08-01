@@ -1,7 +1,5 @@
 # 👋 Timothé ZHENG 
 
----
-
 ## 🔍 About Me
 
 I'm a 5th-year Computer Science student at EPITECH Paris and recently completed an exchange year at Tsinghua University in Beijing. I'm passionate about software development and always eager to explore new technologies and seek new opportunities to contribute on real-word projects.
@@ -33,5 +31,12 @@ I'm a 5th-year Computer Science student at EPITECH Paris and recently completed 
   
 - [LinkedIn](https://linkedin.com/in/timothe-zheng)
 - 📧 Reach out via GitHub or LinkedIn
+
+---
+
+---
+## 📄CV
+
+![CV_TIMOTHE_ZHENG](https://github.com/user-attachments/assets/98354c91-2d3f-479e-b631-2f2fd538de33)
 
 ---

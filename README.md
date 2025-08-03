@@ -22,6 +22,7 @@ I'm a 5th-year Computer Science student at EPITECH Paris and recently completed 
 
 ## 📊 GitHub Stats
 
+![Timothe Zheng  's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tzhengtek&layout=compact&theme=tokyonight)
 ![Timothe Zheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzhengtek&show_icons=true&theme=tokyonight)
 
 ---

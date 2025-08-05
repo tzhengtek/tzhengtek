@@ -30,7 +30,9 @@ I'm a 5th-year Computer Science student at EPITECH Paris and recently completed 
 ## 🌐 Where to Find Me
   
 - [LinkedIn](https://linkedin.com/in/timothe-zheng)
-- 📧 Reach out via GitHub or LinkedIn
+- 📨 Reach out via GitHub or LinkedIn
+- 📧 enxuan.zhg@gmail.com
+
 
 ---
 

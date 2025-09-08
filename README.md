@@ -39,6 +39,7 @@ I'm a 5th-year Computer Science student at EPITECH Paris and recently completed 
 ---
 ## 📄CV
 
-![CV_TIMOTHE_ZHENG](https://github.com/user-attachments/assets/98354c91-2d3f-479e-b631-2f2fd538de33)
+Download my CV here <br/>
+[CV_TIMOTHE_ZHENG.pdf](https://github.com/user-attachments/files/22214537/CV_TIMOTHE_ZHENG.pdf)
 
 ---
